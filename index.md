@@ -5,3 +5,6 @@
 $ git init
 Started to work with markdown in Aleena2Francis/skills-communicate-using-markdown/edit/start-markdown/index.md
 ```
+- [ ] Introduce myself to the world
+- [ ] Add relevant content to the file
+- [ ] Add needed resources
